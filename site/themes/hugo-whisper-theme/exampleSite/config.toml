@@ -4,7 +4,6 @@ title = "Hugo Whisper Theme"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 
-
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
