@@ -19,16 +19,16 @@ summaryLength = 30
     weight = 1
 
 [[menu.main]]
-    name = "Docs"
-    url = "/docs/"
+    name = "Course material"
+    url = "/material/"
     weight = 2
 
 [params]
   google_analytics_id=""
-  homepage_button_link = '/docs'
-  homepage_button_text = 'Read The Docs'
+  homepage_button_link = '/material'
+  homepage_button_text = 'Go to the course material'
   homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
-  homepage_image = '/images/terminal.gif'
+  homepage_image = '/images/aal_back.jpg'
 
   ## You can enable to add anchor links to header elements
   # enable_anchor_link = true
