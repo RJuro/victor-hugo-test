@@ -1,6 +1,6 @@
 ---
-title: 'Hugo Whisper Docs'
+title: 'The Social Data Science PhD Course 2019'
 date: 2018-11-28T15:14:39+10:00
 ---
 
-Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal. 
+Get started with data science and machine learning with this PhD course for social science and humanities scholars!
