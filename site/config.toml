@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hugo Whisper Theme"
+title = "AAU Social Data Science PhD 2019"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 
@@ -45,5 +45,5 @@ summaryLength = 30
     meta_twitter_creator = "@zerostaticio"
 
   [params.logo]
-      mobile = "/images/logo_aau.pdf"
-      standard  = "/images/logo_aau.pdf"
+      mobile = "/images/logo_aau.png"
+      standard  = "/images/logo_aau.png"
